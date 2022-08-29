@@ -1,2 +1,2 @@
 # Clone pagina inicial NETFLIX
-## carrosel não foi concluido 
+## carrossel não foi concluido 
